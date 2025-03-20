@@ -6,7 +6,7 @@ public class casting {
 
         /* primitiva */
 
-        Long cpf = 12345678L;
+        long cpf = 12345678L;
 
         /* Wrapped */
 
